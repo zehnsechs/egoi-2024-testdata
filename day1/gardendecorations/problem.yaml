@@ -1,0 +1,11 @@
+uuid: 600a6ab9-afac-4d59-af54-107a3bc455b0
+author: Massimo Cairo
+source: European Girls' Olympiad in Informatics 2024
+rights_owner: European Girls' Olympiad in Informatics 2024
+license: cc by-sa
+type: scoring
+grading:
+    show_test_data_groups: yes
+validation: custom interactive score
+limits:
+  time_multiplier: 15

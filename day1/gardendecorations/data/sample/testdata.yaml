@@ -1,0 +1,5 @@
+on_reject: continue
+range: 0 0
+accept_score: 0
+grading: custom
+grader_flags: rescale 1000 0

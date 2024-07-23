@@ -1,0 +1,10 @@
+uuid: 440649fe-57c0-4499-afc6-8be27cdf3857
+author: Yann Viegas
+source: European Girls' Olympiad in Informatics 2024
+rights_owner: European Girls' Olympiad in Informatics 2024
+license: cc by-sa
+type: scoring
+grading:
+    show_test_data_groups: yes
+limits:
+  time_multiplier: 1.1

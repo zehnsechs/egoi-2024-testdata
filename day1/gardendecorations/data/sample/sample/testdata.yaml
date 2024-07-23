@@ -1,0 +1,6 @@
+on_reject: continue
+range: 0 1000
+accept_score: 0
+grading: default
+grader_flags: first_error
+input_validator_flags: n=100 mode=general
