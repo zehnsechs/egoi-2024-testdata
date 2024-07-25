@@ -1,0 +1,10 @@
+uuid: 9c553f73-2184-47a4-adc0-554d01aeb10b
+author: Hazem Issa
+source: European Girls' Olympiad in Informatics 2024
+rights_owner: European Girls' Olympiad in Informatics 2024
+license: cc by-sa
+type: scoring
+grading:
+    show_test_data_groups: yes
+limits:
+    time_multiplier: 3

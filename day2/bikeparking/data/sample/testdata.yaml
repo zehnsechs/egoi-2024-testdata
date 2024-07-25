@@ -1,0 +1,5 @@
+on_reject: continue
+range: 0 0
+accept_score: 0
+grader_flags: first_error
+input_validator_flags: minn=1 maxn=300000 maxx=1000000000 maxy=1000000000 maxsumx=1000000000 maxsumy=1000000000 equal=0

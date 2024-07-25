@@ -1,0 +1,11 @@
+uuid: a89553ec-e008-4dfb-bcbb-81e424e1e64e
+author: Viktor Kozhuharov
+source: European Girls' Olympiad in Informatics 2024
+rights_owner: European Girls' Olympiad in Informatics 2024
+license: cc by-sa
+type: scoring
+grading:
+    show_test_data_groups: yes
+validation: custom interactive score
+limits:
+  time_multiplier: 3

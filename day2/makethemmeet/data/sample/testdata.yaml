@@ -1,0 +1,7 @@
+on_reject: continue
+range: 0 0
+accept_score: 0
+grading: default
+output_validator_flags: sample
+grader_flags: first_error
+input_validator_flags: group=4
